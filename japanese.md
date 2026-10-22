@@ -4,3 +4,4 @@ Ordering Food and Drinks
 > O Cha       Green Tea
 > To          and
 >Mizu         water
+> Go ha n     Rice
