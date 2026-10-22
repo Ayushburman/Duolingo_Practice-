@@ -1,2 +1,4 @@
 Ordering Food and Drinks
-sushi desu
+> sushi desu  its sushi
+> Kudasai     please
+> 
