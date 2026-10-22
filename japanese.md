@@ -5,3 +5,4 @@ Ordering Food and Drinks
 > To          and
 >Mizu         water
 > Go ha n     Rice
+> de su       its
