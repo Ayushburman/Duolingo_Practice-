@@ -3,3 +3,4 @@ Ordering Food and Drinks
 > Kudasai     please
 > O Cha       Green Tea
 > To          and
+>Mizu         water
