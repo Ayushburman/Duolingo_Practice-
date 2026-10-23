@@ -11,3 +11,5 @@ Ordering Food and Drinks
 > sen sei     Teacher
 > ishi       formal term for Doctor
 > isha      informal term for Doctor
+> ga ku sei   student
+> 
