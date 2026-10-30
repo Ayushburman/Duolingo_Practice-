@@ -16,5 +16,5 @@ Ordering Food and Drinks
 ----
 > Ya  や
 > hi  ひ
-> bi び
-> 
+> bi  び
+> to  と
