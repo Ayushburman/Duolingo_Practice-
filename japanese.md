@@ -15,4 +15,5 @@ Ordering Food and Drinks
 > 
 ----
 > Ya  や
+> hi  ひ
 > 
