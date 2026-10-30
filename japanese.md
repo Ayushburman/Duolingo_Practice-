@@ -14,4 +14,5 @@ Ordering Food and Drinks
 > ga ku sei   student
 > 
 ----
-> Ya 
+> Ya  や
+> 
