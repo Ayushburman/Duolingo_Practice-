@@ -13,3 +13,5 @@ Ordering Food and Drinks
 > isha      informal term for Doctor
 > ga ku sei   student
 > 
+----
+> Ya 
