@@ -70,6 +70,7 @@
 30	Vater	Father
 
 6. Food & Drinks
+   
 #	German	English
 31	Wasser	Water
 32	Milch	Milk
@@ -82,7 +83,7 @@
 39	Reis	Rice
 40	Zucker	Sugar
 
-7. Essential Everyday Verbs
+8. Essential Everyday Verbs
 #	German	English
 41	Sein	To be
 42	Haben	To have
