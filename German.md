@@ -46,6 +46,7 @@
 20	Nie	Never
 
 4. People & Relationships
+
 #	German	English
 21	Ich	I
 22	Du	You (informal)
@@ -58,7 +59,7 @@
 29	Mutter	Mother
 30	Vater	Father
 
-5. Food & Drinks
+6. Food & Drinks
 #	German	English
 31	Wasser	Water
 32	Milch	Milk
@@ -71,7 +72,7 @@
 39	Reis	Rice
 40	Zucker	Sugar
 
-6. Essential Everyday Verbs
+7. Essential Everyday Verbs
 #	German	English
 41	Sein	To be
 42	Haben	To have
