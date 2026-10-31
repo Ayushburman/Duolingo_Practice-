@@ -10,6 +10,7 @@
 4	Guten Abend	Good evening
 
 5	Gute Nacht	Good night
+
 6	Tschüss	Bye
 7	Auf Wiedersehen	Goodbye
 8	Danke	Thank you
