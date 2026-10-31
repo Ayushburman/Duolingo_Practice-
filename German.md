@@ -16,7 +16,9 @@
 7	Auf Wiedersehen	Goodbye
 
 8	Danke	Thank you
+
 9	Bitte	Please / You're welcome
+
 10	Entschuldigung	Excuse me / Sorry
 
 2. Common Everyday Words
