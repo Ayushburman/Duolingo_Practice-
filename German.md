@@ -53,6 +53,7 @@
 22	Du	You (informal)
 
 23	Er	He
+
 24	Sie	She / They / You (formal)
 25	Wir	We
 26	Freund	Friend (male)
