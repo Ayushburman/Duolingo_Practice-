@@ -110,6 +110,7 @@
 46	Lernen	To learn
 
 47	Sprechen	To speak
+
 48	Lesen	To read
 49	Schreiben	To write
 50	Lieben	To love
