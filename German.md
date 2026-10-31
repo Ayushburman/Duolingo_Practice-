@@ -38,6 +38,7 @@
 16	Schön	Beautiful / Nice
 
 17	Sehr	Very
+
 18	Auch	Also / Too
 19	Immer	Always
 20	Nie	Never
