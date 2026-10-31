@@ -26,6 +26,7 @@
 #	German	English
 
 11	Ja	Yes
+
 12	Nein	No
 13	Vielleicht	Maybe
 14	Gut	Good
