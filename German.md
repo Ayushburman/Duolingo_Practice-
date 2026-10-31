@@ -49,6 +49,7 @@
 
 #	German	English
 21	Ich	I
+
 22	Du	You (informal)
 23	Er	He
 24	Sie	She / They / You (formal)
