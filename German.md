@@ -48,6 +48,7 @@
 4. People & Relationships
 
 #	German	English
+
 21	Ich	I
 
 22	Du	You (informal)
