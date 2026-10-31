@@ -1,5 +1,6 @@
 
 #	German	English
+
 1	Hallo	Hello
 2	Guten Morgen	Good morning
 3	Guten Tag	Good day
