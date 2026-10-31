@@ -82,6 +82,7 @@
 34	Apfel	Apple
 
 35	Kaffee	Coffee
+
 36	Tee	Tea
 37	Essen	Food / To eat
 38	Trinken	To drink
