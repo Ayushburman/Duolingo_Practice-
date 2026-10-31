@@ -88,10 +88,13 @@
 37	Essen	Food / To eat
 
 38	Trinken	To drink
+
 39	Reis	Rice
+
 40	Zucker	Sugar
 
 8. Essential Everyday Verbs
+
 #	German	English
 41	Sein	To be
 42	Haben	To have
