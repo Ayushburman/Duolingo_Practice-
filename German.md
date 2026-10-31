@@ -78,6 +78,7 @@
 32	Milch	Milk
 
 33	Brot	Bread
+
 34	Apfel	Apple
 35	Kaffee	Coffee
 36	Tee	Tea
