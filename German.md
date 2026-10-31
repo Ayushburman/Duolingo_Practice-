@@ -22,6 +22,7 @@
 10	Entschuldigung	Excuse me / Sorry
 
 2. Common Everyday Words
+   
 #	German	English
 11	Ja	Yes
 12	Nein	No
@@ -34,7 +35,7 @@
 19	Immer	Always
 20	Nie	Never
 
-3. People & Relationships
+4. People & Relationships
 #	German	English
 21	Ich	I
 22	Du	You (informal)
@@ -47,7 +48,7 @@
 29	Mutter	Mother
 30	Vater	Father
 
-4. Food & Drinks
+5. Food & Drinks
 #	German	English
 31	Wasser	Water
 32	Milch	Milk
@@ -60,7 +61,7 @@
 39	Reis	Rice
 40	Zucker	Sugar
 
-5. Essential Everyday Verbs
+6. Essential Everyday Verbs
 #	German	English
 41	Sein	To be
 42	Haben	To have
