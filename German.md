@@ -106,6 +106,7 @@
 44	Kommen	To come
 
 45	Machen	To do / Make
+
 46	Lernen	To learn
 47	Sprechen	To speak
 48	Lesen	To read
