@@ -34,6 +34,7 @@
 14	Gut	Good
 
 15	Schlecht	Bad
+
 16	Schön	Beautiful / Nice
 17	Sehr	Very
 18	Auch	Also / Too
