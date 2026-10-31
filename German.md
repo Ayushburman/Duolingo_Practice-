@@ -1,4 +1,4 @@
-1. Greetings & Basic Words
+
 #	German	English
 1	Hallo	Hello
 2	Guten Morgen	Good morning
