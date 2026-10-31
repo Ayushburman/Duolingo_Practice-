@@ -104,6 +104,7 @@
 43	Gehen	To go / Walk
 
 44	Kommen	To come
+
 45	Machen	To do / Make
 46	Lernen	To learn
 47	Sprechen	To speak
