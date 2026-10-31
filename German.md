@@ -96,6 +96,7 @@
 8. Essential Everyday Verbs
 
 #	German	English
+
 41	Sein	To be
 42	Haben	To have
 43	Gehen	To go / Walk
