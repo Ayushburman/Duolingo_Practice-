@@ -59,6 +59,7 @@
 25	Wir	We
 
 26	Freund	Friend (male)
+
 27	Freundin	Friend (female)
 28	Familie	Family
 29	Mutter	Mother
