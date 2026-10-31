@@ -32,6 +32,7 @@
 13	Vielleicht	Maybe
 
 14	Gut	Good
+
 15	Schlecht	Bad
 16	Schön	Beautiful / Nice
 17	Sehr	Very
