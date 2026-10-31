@@ -100,6 +100,7 @@
 41	Sein	To be
 
 42	Haben	To have
+
 43	Gehen	To go / Walk
 44	Kommen	To come
 45	Machen	To do / Make
