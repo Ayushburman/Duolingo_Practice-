@@ -29,3 +29,4 @@ ya sa shi i hi to de su
 ga ku se i
 teacher sensei
 su shi sushi
+doctor i sha
