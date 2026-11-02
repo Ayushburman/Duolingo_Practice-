@@ -23,3 +23,4 @@ Ordering Food and Drinks
 Describe People 
 Sen Sei Isha 
 isha desu
+ya sa shi isha desu
