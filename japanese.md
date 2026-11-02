@@ -24,3 +24,4 @@ Describe People
 Sen Sei Isha 
 isha desu
 ya sa shi isha desu
+ka kko i i de su
