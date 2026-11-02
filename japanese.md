@@ -31,3 +31,4 @@ teacher sensei
 su shi sushi
 doctor i sha
 Lawyer Ben go shi
+green tea o cha 
