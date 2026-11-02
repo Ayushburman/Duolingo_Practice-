@@ -18,3 +18,6 @@ Ordering Food and Drinks
 > hi  ひ
 > bi  び
 > to  と
+----
+
+Describe People 
