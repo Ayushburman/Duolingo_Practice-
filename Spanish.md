@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Multi-inspire<isrc="https://render.vercel.type=waving&color=0:8F1D2C,35:E76F51,70:F4A261,100:height&section=r=SPANITE%20F%20A0%20ontSize=42&fontColor=FFFFFF&desc=Visual%20Study%20Architecture%20%7C%20Duolingo%20Pro%20Companion&descAlignY=66&descSize=17" width="100%"
-    <img src="https://img.shields.io/badge/TARGET_LEVEL-A0_to_C38EC?style=for-dge&labelColor=A" aargeto 
+    <img src="https://img.shields.io/badge/TARGET_LEVEL-A0_to_C38EC?style=for-dge&labe aargeto 
     <img src="https://img.shields.io/badge/DAILY_LOOP-60--90_118AB2?style=-
     <img src="https://img.shields.io/badge/ENGINE-DUOLINGO_PRO_+_IMMERSION-77D?style=for-the-badge&labelColor=20243A" alt=go Pro and immersion" />
     <img src="https://img.shields.io/badge/METHOD-ACTIVE_RECALL-E76F51?style=for-the-&labelColor=20243A" alt="Active recall" />
