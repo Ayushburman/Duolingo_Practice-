@@ -8,8 +8,6 @@
     <img src="https://img.shields.io/badge/ENGINE-DUOLINGO_PRO_+_IMMERSION-06A77D?style=for-the-badge&labelColor=20243A" alt="Duolingo Pro and immersion" />
     <img src="https://img.shields.io/badge/METHOD-ACTIVE_RECALL-E76F51?style=for-the-badge&labelColor=20243A" alt="Active recall" />
     <img src="https://img.shields.io/badge/SKILLS-4_SKILLS-4361EE?style=for-the-badge&labelColor=20243A" alt="Four skills" />
-  </p>
-
   <p><strong>CEFR COLOR PATH</strong></p>
   <p>
     <img src="https://img.shields.io/badge/A0-START-E76F51?style=for-the-badge&labelColor=20243A" alt="A0 Start" />
