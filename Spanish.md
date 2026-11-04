@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/ENGINE-DUOLINGO_PRO_+_IMMERSION-77D?style=for-the-badge&labelColor=20243A" alt=gro immersion" />
     <img src="https://img.shields.io/badge/METHOD-ACTIVE_RECALL-E76F51?style=for-the-&labelColor=20243A" alt="Active recall" />
     <img src="https://img.shields.io/badge/SKILLS-4_SKILLS-4361style=for-the-badge&labelColor=lt="Four skills
-  <p><strong>CEFR COLOR PATH</strong></p>
+  <p><strong>CEFR COLOR PATH</strong><
   <p>
     <img src="https://img.shields.io/badge/A0-START-E76F51?style=for-the-badge&labelColor=20243A" alt="A0 Start" />
     <img src="https://img.shields.io/badge/A1-BASIC-F78C6B?style=for-the-badge&labelColor=20243A" alt="A1 Basic" />
