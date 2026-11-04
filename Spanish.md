@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/DAILY_LOOP-60--90_118AB2?style=-
     <img src="https://img.shields.io/badge/ENGINE-DUOLINGO_PRO_+_IMMERSION-77D?style=for-the-badge&labelColor=20243A" alt=go Pro and immersion" />
     <img src="https://img.shields.io/badge/METHOD-ACTIVE_RECALL-E76F51?style=for-the-&labelColor=20243A" alt="Active recall" />
-    <img src="https://img.shields.io/badge/SKILLS-4_SKILLS-4361EE?style=for-the-badge&labelColor=lt="Four skills" />
+    <img src="https://img.shields.io/badge/SKILLS-4_SKILLS-4361style=for-the-badge&labelColor=lt="Four skills" />
   <p><strong>CEFR COLOR PATH</strong></p>
   <p>
     <img src="https://img.shields.io/badge/A0-START-E76F51?style=for-the-badge&labelColor=20243A" alt="A0 Start" />
