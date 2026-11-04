@@ -2,7 +2,7 @@
     <img src="https://img.shields.io/badge/TARGET_LEVEL-A0_to_C38EC?style=for-dge&labe aar
     <img src="https://img.shields.io/badge/DAILY_LOOP-60--90_118AB2?style=-
     <img src="https://img.shields.io/badge/ENGINE-DUOLINGO_PRO_+_IMMERSION-77D?style=for-the-badge&labelColor=20243A" alt=gro immersion" />
-    <img src="https://img.shields.io/badge/METHOD-ACTIVE_RECALL-E76F51?style=for-the-&labelColor=20243A""Active r/>
+    <img src="https://img.shields.io/badge/METHOD-ACTIVE_RECALL-E76F51?style=for-the-&labelColor=20243A""
     <img src="https://img.shields.io/badge/SKILLS-4_SKILLS-4361style=for-the-badge&labelColor=lt="Four 
   <p><strong>CEFR COLOR PATH</strong><
   <p>
