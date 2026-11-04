@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Multi-color Spanish-inspired gradient 
-  <img src="https://capsule-render.vercel.type=waving&color=0:8F1D2C,35:E76F51,70:F4A261,100:2A9D8F&height=245&section=r=SPANISH%20MASTERY%20%2F%2F%20A0%20TO%20C2&fontSize=42&fontColor=FFFFFF&desc=Visual%20Study%20Architecture%20%7C%20Duolingo%20Pro%20Companion&descAlignY=66&descSize=17" width="100%"Spanish Mastery — A0 to
+  <img src="https://capsule-render.vercel.type=waving&color=0:8F1D2C,35:E76F51,70:F4A261,100:2A9D8F&height=245&section=r=SPANISH%20MASTE%20%2F%2F%20A0%20TO%20C2&fontSize=42&fontColor=FFFFFF&desc=Visual%20Study%20Architecture%20%7C%20Duolingo%20Pro%20Companion&descAlignY=66&descSize=17" width="100%"Spanish Mastery — A0 to
     <img src="https://img.shields.io/badge/TARGET_LEVEL-A0_to_C2-8338EC?style=for-dge&labelColor=20243A" alt="Target A0 to C2" />
     <img src="https://img.shields.io/badge/DAILY_LOOP-60--90_MIN-118AB2?style=-badge&or=Daily loop" />
     <img src="https://img.shields.io/badge/ENGINE-DUOLINGO_PRO_+_IMMERSION-77D?style=for-the-badge&labelColor=20243A" alt="Duolingo Pro and immersion" />
