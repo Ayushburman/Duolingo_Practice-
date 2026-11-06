@@ -1,11 +1,4 @@
-
-    style R2 fill:#06A77D,stroke:#20243A,color:#fff
-    style R3 fill:#118AB2,stroke:#20243A,color:#fff
-```
-
-### Accent Marks Change Meaning (Diacritical Tildes)
-
-| With Accent | Meaning | Without Accent | Meaning |
+out Accent | Meaning |
 | :---: | :--- | :---: | :--- |
 | **sí** | yes | **si** | if |
 | **tú** | you *(subject)* | **tu** | your *(possessive)* |
