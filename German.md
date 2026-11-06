@@ -1,10 +1,4 @@
-out Accent | Meaning |
-| :---: | :--- | :---: | :--- |
-| **sí** | yes | **si** | if |
-| **tú** | you *(subject)* | **tu** | your *(possessive)* |
-| **él** | he *(pronoun)* | **el** | the *(masculine article)* |
-| **más** | more / plus | **mas** | but *(literary)* |
-| **¿Qué? / ¡Qué!** | what / how *(question/exclamation)* | **que** | that *(relative conjunction)* |
+ | what / how *(question/exclamation)* | **que** | that *(relative conjunction)* |
 
 ### First Speaking Drill
 Read slowly focusing on pure vowels, then repeat at natural conversational speed:
