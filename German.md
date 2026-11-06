@@ -1,5 +1,4 @@
-type=waving&color=0:8F1D2C,35:E76F51,70:F4A261,100:2A9D8F&height=245&section=header&tSPAontSize=42&fontColor=FFFFFF&desc=Visual%20Study%20Architecture%20%7C%20Duolingo%20Pro%20Compa
-  <!-- Animated Typing SVG tihref="https://gisvg.demolabfont=Fira+Code&weight=700&size=22&duratio00&color=E76F51&e&vCenter=true&width=850&lines=%5BES%5D+SPANISH+MASTERY+%2F%2F+FROM+ZERO+TO+C2+FLUENCY;A0+Start+%E2%9E%9C+A1+Basic+%E2%9E%9C+B1+Independent+%E2%9E%9C+C2+Mastery;Visual+Step-by-Step+Study+Architecture+%26+Execution+System" alt="
+ tihref="https://gisvg.demolabfont=Fira+Code&weight=700&size=22&duratio00&color=E76F51&e&vCenter=true&width=850&lines=%5BES%5D+SPANISH+MASTERY+%2F%2F+FROM+ZERO+TO+C2+FLUENCY;A0+Start+%E2%9E%9C+A1+Basic+%E2%9E%9C+B1+Independent+%E2%9E%9C+C2+Mastery;Visual+Step-by-Step+Study+Architecture+%26+Execution+System" alt="
   <p>
     <img src="https://img.shields.io/badge/TARGET_LEVEL-A0_to_C2-8338EC?style=for-the-badge&labelColor=20243A" alt="Target A0 to C2" />
     <img src="https://img.shields.io/badge/DAILY_LOOP-60--90_MIN-118AB2?style=for-the-badge&labelColor=20243A" alt="Daily 
