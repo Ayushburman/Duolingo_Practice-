@@ -1,13 +1,5 @@
 
-| Time Block | Duration | Core Module | Share |
-| :---: | :---: | :--- | :---: |
-| `00:00 – 00:15` | ![15m](https://img.shields.io/badge/15_min-06A77D?style=flat-square) | **Duolingo Pro** lesson + mistake review | `19%` |
-| `00:15 – 00:30` | ![15m](https://img.shields.io/badge/15_min-2A9D8F?style=flat-square) | **Vocabulary** / spaced repetition (Anki chunks) | `19%` |
-| `00:30 – 00:50` | ![20m](https://img.shields.io/badge/20_min-00B4D8?style=flat-square) | **Listening** (comprehensible audio + transcript) | `25%` |
-| `00:50 – 01:05` | ![15m](https://img.shields.io/badge/15_min-F77F00?style=flat-square) | **Speaking aloud** / shadowing native rhythm | `19%` |
-| `01:05 – 01:15` | ![10m](https://img.shields.io/badge/10_min-9B5DE5?style=flat-square) | **Grammar** pattern drill or short **writing** | `12%` |
-| `01:15 – 01:20` | ![5m](https://img.shields.io/badge/5_min-E76F51?style=flat-square) | **Blind Recall** of yesterday's material without notes | `6%` |
-
+| Time 
 > [!TIP]
 > **MINIMUM VIABLE DAY (20 MIN):** On exhausting or high-load days, never hit zero. Execute: **`[10m Duolingo]` + `[5m Listening]` + `[5m Speaking Aloud]`**.
 
