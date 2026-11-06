@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8F1D2C,35:E76F51,70:F4A261,100:2A9D8F&height=245&section=header&tSPANISHASTERY%2F%2F%20A0%20TO%20C2&fontSize=42&fontColor=FFFFFF&desc=Visual%20Study%20Architecture%20%7C%20Duolingo%20Pro%20Companion&descAlignY=66&descSize=17" width="100%" alt="Spanish — 
   <!-- Animated Typing SVG replacing the old ASCII title banner 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=1000&color=E76F51&center=true&vCenter=true&width=850&lines=%5BES%5D+SPANISH+MASTERY+%2F%2F+FROM+ZERO+TO+C2+FLUENCY;A0+Start+%E2%9E%9C+A1+Basic+%E2%9E%9C+B1+Independent+%E2%9E%9C+C2+Mastery;Visual+Step-by-Step+Study+Architecture+%26+Execution+System" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolabfont=Fira+Code&weight=700&size=22&duration=3200&pause=1000&color=E76F51&center=true&vCenter=true&width=850&lines=%5BES%5D+SPANISH+MASTERY+%2F%2F+FROM+ZERO+TO+C2+FLUENCY;A0+Start+%E2%9E%9C+A1+Basic+%E2%9E%9C+B1+Independent+%E2%9E%9C+C2+Mastery;Visual+Step-by-Step+Study+Architecture+%26+Execution+System" alt="Typing SVG" />
   </a>
 
   <p>
