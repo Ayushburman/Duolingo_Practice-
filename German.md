@@ -6,7 +6,7 @@
 **Weekly Rhythm**
 - **Mon–Fri:** Follow the 80-minute daily execution loop.
 - **Saturday:** Review weak skills; write a 150–250 word piece (scale to your current CEFR level).
-- **Sunday:** Light Spanish media + weekly self-test; plan next week's target.
+- **Sunday:** Light Spanish media + weekly self-test; plan next week's t
 
 ### Duolingo Pro Workflow
 
