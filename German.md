@@ -1,12 +1,4 @@
-c="https://img.shields.io/badge/C2-MASTERY-8338EC?style=for-the-badge&labelColor=20243A" alt="C2 Mastery" />
-  </p>
-
-  <p><strong>FOUR-SKILL COLOR KEY</strong></p>
-  <p>
-    <img src="https://img.shields.io/badge/🎧_LISTENING-AUDIO-00B4D8?style=flat-square&labelColor=20243A" alt="Listening" />
-    <img src="https://img.shields.io/badge/🗣️_SPEAKING-VOICE-F77F00?style=flat-square&labelColor=20243A" alt="Speaking" />
-    <img src="https://img.shields.io/badge/📖_READING-TEXT-9B5DE5?style=flat-square&labelColor=20243A" alt="Reading" />
-    <img src="https://img.shields.io/badge/✍️_WRITING-OUTPUT-F15BB5?style=flat-square&labelColor=20243A" alt="Writing" />
+c="https://tyle=flat-square&labelColor=20243A" alt="Writing" />
   </p>
 </div>
 
