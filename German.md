@@ -1,12 +1,4 @@
 
-flowchart LR
-    A0["<b>A0 // ZERO</b><br/>Start<br/>0%"] --> A1["<b>A1 // SURVIVAL</b><br/>0–2 Months<br/>15%"]
-    A1 --> A2["<b>A2 // FOUNDATION</b><br/>2–4 Months<br/>30%"]
-    A2 --> B1["<b>B1 // INDEPENDENT</b><br/>4–8 Months<br/>50%"]
-    B1 --> B2["<b>B2 // CONFIDENT</b><br/>8–14 Months<br/>70%"]
-    B2 --> C1["<b>C1 // ADVANCED</b><br/>14–24 Months<br/>85%"]
-    C1 --> C2["<b>C2 // MASTERFUL</b><br/>2+ Years<br/>100%"]
-
     style A0 fill:#E76F51,stroke:#20243A,stroke-width:2px,color:#fff
     style A1 fill:#F78C6B,stroke:#20243A,stroke-width:2px,color:#fff
     style A2 fill:#F4B942,stroke:#20243A,stroke-width:2px,color:#20243A
