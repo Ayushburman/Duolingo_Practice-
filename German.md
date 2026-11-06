@@ -1,7 +1,7 @@
 
 | Time 
 > [!TIP]
-> **MINIMUM VIABLE DAY (20 MIN):** On exhausting or high-load days, never hit zero. Execute: **`[10m Duolingo]` + `[5m Listening]` + `[5m Speaking Aloud]`**.
+> **MINIMUM VIABLE DAY (20 MIN):** On exhausng or high-load days, never hit zero. Execute: **`[10m Duolingo]` + `[5m Listening]` + `[5m Speaking Aloud]`**.
 
 **Weekly Rhythm**
 - **Mon–Fri:** Follow the 80-minute daily execution loop.
