@@ -1,48 +1,4 @@
 
-    style A0 fill:#E76F51,stroke:#20243A,stroke-width:2px,color:#fff
-    style A1 fill:#F78C6B,stroke:#20243A,stroke-width:2px,color:#fff
-    style A2 fill:#F4B942,stroke:#20243A,stroke-width:2px,color:#20243A
-    style B1 fill:#06A77D,stroke:#20243A,stroke-width:2px,color:#fff
-    style B2 fill:#118AB2,stroke:#20243A,stroke-width:2px,color:#fff
-    style C1 fill:#4361EE,stroke:#20243A,stroke-width:2px,color:#fff
-    style C2 fill:#8338EC,stroke:#20243A,stroke-width:2px,color:#fff
-```
-
-### Input vs. Output Scaling Architecture
-
-| Channel | Early Stages (A0–A2) | Intermediate (B1–B2) | Advanced (C1–C2) | Dynamics |
-| :--- | :---: | :---: | :---: | :--- |
-| **🎧📖 INPUT** *(Listening / Reading)* | ![80%](https://img.shields.io/badge/80%25-DOMINANT-00B4D8?style=flat-square&labelColor=20243A) | ![55%](https://img.shields.io/badge/55%25-BALANCED-06A77D?style=flat-square&labelColor=20243A) | ![50%](https://img.shields.io/badge/50%25-NATIVE_MEDIA-4361EE?style=flat-square&labelColor=20243A) | **High Early:** Builds mental model & comprehension |
-| **🗣️✍️ OUTPUT** *(Speaking / Writing)* | ![20%](https://img.shields.io/badge/20%25-DRILLS-F77F00?style=flat-square&labelColor=20243A) | ![45%](https://img.shields.io/badge/45%25-ACTIVE_USE-F4B942?style=flat-square&labelColor=20243A) | ![50%](https://img.shields.io/badge/50%25-SPONTANEOUS-8338EC?style=flat-square&labelColor=20243A) | **Scales Up:** Converts passive knowledge into fluency |
-
-*Timeline is approximate. Progress depends on study time, consistency, exposure, and feedback.*
-
-| Stage | Mastery Meter | Can-Do Goal | Main Focus | Exit Checkpoint |
-| :---: | :---: | :--- | :--- | :--- |
-| ![A0](https://img.shields.io/badge/A0-E76F51?style=flat-square) | ![0%](https://img.shields.io/badge/Progress-0%25-E76F51?style=flat-square&labelColor=20243A) | Start from nothing | Sounds, greetings, basic phrases | Read Spanish alphabet and introduce yourself |
-| ![A1](https://img.shields.io/badge/A1-F78C6B?style=flat-square) | ![15%](https://img.shields.io/badge/Progress-15%25-F78C6B?style=flat-square&labelColor=20243A) | Handle simple situations | Present tense, core vocabulary, questions | 2–3 minute self-introduction |
-| ![A2](https://img.shields.io/badge/A2-F4B942?style=flat-square) | ![30%](https://img.shields.io/badge/Progress-30%25-F4B942?style=flat-square&labelColor=20243A) | Talk about routine and past events | Past tenses, descriptions, everyday exchanges | 5-minute familiar-topic conversation |
-| ![B1](https://img.shields.io/badge/B1-06A77D?style=flat-square) | ![50%](https://img.shields.io/badge/Progress-50%25-06A77D?style=flat-square&labelColor=20243A) | Explain opinions and experiences | Narrative, future, subjunctive basics | 10-minute conversation; graded reader |
-| ![B2](https://img.shields.io/badge/B2-118AB2?style=flat-square) | ![70%](https://img.shields.io/badge/Progress-70%25-118AB2?style=flat-square&labelColor=20243A) | Discuss complex topics | Nuance, connectors, natural listening | Follow most native content with support |
-| ![C1](https://img.shields.io/badge/C1-4361EE?style=flat-square) | ![85%](https://img.shields.io/badge/Progress-85%25-4361EE?style=flat-square&labelColor=20243A) | Use Spanish flexibly | Register, idioms, advanced grammar | Present, debate, and write detailed arguments |
-| ![C2](https://img.shields.io/badge/C2-8338EC?style=flat-square) | ![100%](https://img.shields.io/badge/Progress-100%25-8338EC?style=flat-square&labelColor=20243A) | Near-expert command | Precision, style, cultural nuance | Understand and express subtle meaning across contexts |
-
----
-
-## [00.5] DAILY SYSTEM (60–90 MINUTES)
-![DAILY 80_MIN_LOOP](https://img.shields.io/badge/DAILY-80_MIN_LOOP-118AB2?style=flat-square&labelColor=20243A)  ![HABIT CONSISTENCY](https://img.shields.io/badge/HABIT-CONSISTENCY-06A77D?style=flat-square&labelColor=20243A)  ![REVIEW ACTIVE_RECALL](https://img.shields.io/badge/REVIEW-ACTIVE_RECALL-E76F51?style=flat-square&labelColor=20243A)
-
-```mermaid
-pie showData
-    title Daily Spanish Execution Loop (80 Minutes Total)
-    "Listening (Audio + Transcript)" : 20
-    "Duolingo Pro Lesson + Review" : 15
-    "Vocabulary / Spaced Repetition" : 15
-    "Speaking Aloud / Shadowing" : 15
-    "Grammar or Writing" : 10
-    "Blind Recall (No Notes)" : 5
-```
-
 | Time Block | Duration | Core Module | Share |
 | :---: | :---: | :--- | :---: |
 | `00:00 – 00:15` | ![15m](https://img.shields.io/badge/15_min-06A77D?style=flat-square) | **Duolingo Pro** lesson + mistake review | `19%` |
