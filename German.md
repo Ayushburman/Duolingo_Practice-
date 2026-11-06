@@ -1,13 +1,4 @@
 
-| Time 
-> [!TIP]
-> **MINIMUM VIABLE DAY (20 MIN):** On exhausng or high-load days, never hit zero. Execute: **`[10m Duolingo]` + `[5m Listening]` + `[5m Speaking Aloud]`**.
-
-**Weekly Rhythm**
-- **Mon–Fri:** Follow the 80-minute daily execution loop.
-- **Saturday:** Review weak skills; write a 150–250 word piece (scale to your current CEFR level).
-- **Sunday:** Light Spanish media + weekly self-test; plan next week's t
-
 ### Duolingo Pro Workflow
 
 ```mermaid
