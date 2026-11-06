@@ -1,10 +1,4 @@
 
----
-
-## [00] THE COMPLETE ROADMAP
-![ROADMAP A0_to_C2](https://img.shields.io/badge/ROADMAP-A0_to_C2-8338EC?style=flat-square&labelColor=20243A)  ![CEFR 7_LEVELS](https://img.shields.io/badge/CEFR-7_LEVELS-4361EE?style=flat-square&labelColor=20243A)  ![PLAN LONG_TERM](https://img.shields.io/badge/PLAN-LONG_TERM-2A9D8F?style=flat-square&labelColor=20243A)
-
-```mermaid
 flowchart LR
     A0["<b>A0 // ZERO</b><br/>Start<br/>0%"] --> A1["<b>A1 // SURVIVAL</b><br/>0–2 Months<br/>15%"]
     A1 --> A2["<b>A2 // FOUNDATION</b><br/>2–4 Months<br/>30%"]
