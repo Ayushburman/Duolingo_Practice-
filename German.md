@@ -1,9 +1,4 @@
 
-labelColor=20243A)  ![SKILL READING](https://img.shields.io/badge/SKILL-READING-00B4D8?style=flat-square&labelColor=20243A)
-
-Spanish spelling is highly phonemic. Master the sound rules first so reading immediately reinforces pronunciation.
-
-| Letter / Pattern | Approximate Sound | Example |
 | :--- | :--- | :--- |
 | <kbd>a</kbd> <kbd>e</kbd> <kbd>i</kbd> <kbd>o</kbd> <kbd>u</kbd> | *ah, eh, ee, oh, oo* (pure, crisp vowels) | **casa, mesa** |
 | <kbd>h</kbd> | always silent | **hola** |
