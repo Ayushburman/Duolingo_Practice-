@@ -1,9 +1,4 @@
-
-### Duolingo Pro Workflow
-
-```mermaid
-flowchart LR
-    S1["<b>1. Speak Aloud</b><br/>Read every sentence"] --> S2["<b>2. Predict First</b><br/>Formulate before tapping"]
+Predict First</b><br/>Formulate before tapping"]
     S2 --> S3["<b>3. Curate Phrases</b><br/>Save high-value chunks"]
     S3 --> S4["<b>4. Log Error 'Why'</b><br/>Write rule + correction"]
     S4 --> S5["<b>5. Delayed Test</b><br/>Revisit unit without hints"]
