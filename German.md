@@ -1,17 +1,4 @@
-Predict First</b><br/>Formulate before tapping"]
-    S2 --> S3["<b>3. Curate Phrases</b><br/>Save high-value chunks"]
-    S3 --> S4["<b>4. Log Error 'Why'</b><br/>Write rule + correction"]
-    S4 --> S5["<b>5. Delayed Test</b><br/>Revisit unit without hints"]
-    S5 --> S6["<b>6. Real Convo</b><br/>Deploy in live speech"]
-    S6 -.->|"Next Unit Loop"| S1
 
-    style S1 fill:#06A77D,stroke:#20243A,color:#fff
-    style S2 fill:#2A9D8F,stroke:#20243A,color:#fff
-    style S3 fill:#118AB2,stroke:#20243A,color:#fff
-    style S4 fill:#E76F51,stroke:#20243A,color:#fff
-    style S5 fill:#4361EE,stroke:#20243A,color:#fff
-    style S6 fill:#8338EC,stroke:#20243A,color:#fff
-```
 
 1. Complete the next lesson, but **say every sentence aloud**.
 2. Before tapping an answer or word bank, **predict it yourself**.
