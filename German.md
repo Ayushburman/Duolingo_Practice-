@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Multi-color Spanish-inspired gradient banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8F1D2C,35:E76F51,70:F4A261,100:2A9D8F&height=245&section=header&tSPANISH%20MASTERY%2F%2F%20A0%20TO%20C2&fontSize=42&fontColor=FFFFFF&desc=Visual%20Study%20Architecture%20%7C%20Duolingo%20Pro%20Companion&descAlignY=66&descSize=17" width="100%" alt="Spanish Mastery — A0 to C2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8F1D2C,35:E76F51,70:F4A261,100:2A9D8F&height=245&section=header&tSPANISH%20MASTERY%2F%2F%20A0%20TO%20C2&fontSize=42&fontColor=FFFFFF&desc=Visual%20Study%20Architecture%20%7C%20Duolingo%20Pro%20Companion&descAlignY=66&descSize=17" width="100%" alt="Spanish — A0 to C2" />
 
   <!-- Animated Typing SVG replacing the old ASCII title banner -->
   <a href="https://git.io/typing-svg">
