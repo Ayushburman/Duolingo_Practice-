@@ -1,12 +1,4 @@
-
-  <p>
-    <img src="https://img.shields.io/badge/A0-START-E76F51?style=for-the-badge&labelColor=20243A" alt="A0 Start" />
-    <img src="https://img.shields.io/badge/A1-BASIC-F78C6B?style=for-the-badge&labelColor=20243A" alt="A1 Basic" />
-    <img src="https://img.shields.io/badge/A2-EVERYDAY-F4B942?style=for-the-badge&labelColor=20243A" alt="A2 Everyday" />
-    <img src="https://img.shields.io/badge/B1-INDEPENDENT-06A77D?style=for-the-badge&labelColor=20243A" alt="B1 Independent" />
-    <img src="https://img.shields.io/badge/B2-CONFIDENT-118AB2?style=for-the-badge&labelColor=20243A" alt="B2 Confident" />
-    <img src="https://img.shields.io/badge/C1-ADVANCED-4361EE?style=for-the-badge&labelColor=20243A" alt="C1 Advanced" />
-    <img src="https://img.shields.io/badge/C2-MASTERY-8338EC?style=for-the-badge&labelColor=20243A" alt="C2 Mastery" />
+c="https://img.shields.io/badge/C2-MASTERY-8338EC?style=for-the-badge&labelColor=20243A" alt="C2 Mastery" />
   </p>
 
   <p><strong>FOUR-SKILL COLOR KEY</strong></p>
