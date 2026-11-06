@@ -1,11 +1,5 @@
 
-> [!WARNING]
-> Do not measure mastery by streak, XP, or unit completion alone. Measure what you can **understand** and **produce from memory**.
-
----
-
-## [01] PRONUNCIATION & READING (A0 → A1)
-![LEVEL A0_A1](https://img.shields.io/badge/LEVEL-A0_A1-F78C6B?style=flat-square&labelColor=20243A)  ![SOUND PRONUNCIATION](https://img.shields.io/badge/SOUND-PRONUNCIATION-9B5DE5?style=flat-square&labelColor=20243A)  ![SKILL READING](https://img.shields.io/badge/SKILL-READING-00B4D8?style=flat-square&labelColor=20243A)
+labelColor=20243A)  ![SKILL READING](https://img.shields.io/badge/SKILL-READING-00B4D8?style=flat-square&labelColor=20243A)
 
 Spanish spelling is highly phonemic. Master the sound rules first so reading immediately reinforces pronunciation.
 
