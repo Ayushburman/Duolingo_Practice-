@@ -1,16 +1,3 @@
-c="https://tyle=flat-square&labelColor=20243A" alt="Writing" />
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg/1280px-Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg" width="100%" alt="Plaza de Espana Seville" />
-  <p><em>[Fig 01] Plaza de España, Seville — Architectural Symmetry & Structure</em></p>
-</div>
-
-> [!IMPORTANT]
-> **MISSION:** Build Spanish from absolute beginner (**A0**) to independent, fluent, nuanced command (**C1–C2**).
->
-> **CORE RULE:** Duolingo is your **daily practice engine**, not your entire language-learning system. Combine it with listening, speaking, reading, writing, grammar, and real-world feedback.
 
 ---
 
