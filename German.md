@@ -1,6 +1,6 @@
 <div align="center
   <!-- Multi-color Spanish-inspired gradient banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8F1D2C,35:E76F51,70:F4A261,100:2A9D8F&height=245&section=header&tSPANISHF%20A0%20TO%20C2&fontSize=42&fontColor=FFFFFF&desc=Visual%20Study%20Architecture%20%7C%20Duolingo%20Pro%20Companion&descAlignY=66&descSize=17" width=
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8F1D2C,35:E76F51,70:F4A261,100:2A9D8F&height=245&section=header&tSPAontSize=42&fontColor=FFFFFF&desc=Visual%20Study%20Architecture%20%7C%20Duolingo%20Pro%20Companion&descAlignY=66&descSize=17" width=
   <!-- Animated Typing SVG replacing the old tihref="https://gisvg.demolabfont=Fira+Code&weight=700&size=22&duratio00&color=E76F51&e&vCenter=true&width=850&lines=%5BES%5D+SPANISH+MASTERY+%2F%2F+FROM+ZERO+TO+C2+FLUENCY;A0+Start+%E2%9E%9C+A1+Basic+%E2%9E%9C+B1+Independent+%E2%9E%9C+C2+Mastery;Visual+Step-by-Step+Study+Architecture+%26+Execution+System" alt="Typing SVG
   <p>
     <img src="https://img.shields.io/badge/TARGET_LEVEL-A0_to_C2-8338EC?style=for-the-badge&labelColor=20243A" alt="Target A0 to C2" />
