@@ -1,12 +1,4 @@
 
-
-1. Complete the next lesson, but **say every sentence aloud**.
-2. Before tapping an answer or word bank, **predict it yourself**.
-3. Save **useful** new words/phrases in a personal notebook (avoid collecting every isolated word).
-4. Review mistakes: write the corrected sentence and the underlying grammatical reason.
-5. Revisit the same unit after a few days and test recall without hints.
-6. Use Duolingo's speaking/listening exercises when available; add real conversation elsewhere.
-
 > [!WARNING]
 > Do not measure mastery by streak, XP, or unit completion alone. Measure what you can **understand** and **produce from memory**.
 
