@@ -1,16 +1,4 @@
-
-| :--- | :--- | :--- |
-| <kbd>a</kbd> <kbd>e</kbd> <kbd>i</kbd> <kbd>o</kbd> <kbd>u</kbd> | *ah, eh, ee, oh, oo* (pure, crisp vowels) | **casa, mesa** |
-| <kbd>h</kbd> | always silent | **hola** |
-| <kbd>j</kbd> / <kbd>ge</kbd> / <kbd>gi</kbd> | strong breathy "h" (varies by region) | **jamón, gente** |
-| <kbd>ñ</kbd> | "ny" as in *canyon* | **niño** |
-| <kbd>ll</kbd> / <kbd>y</kbd> | often "y" (regional variation: *sh/zh* in Río de la Plata) | **llave, yo** |
-| <kbd>r</kbd> | single alveolar tap between vowels | **pero** |
-| <kbd>rr</kbd> / initial <kbd>r</kbd> | rolled / trilled *r* | **perro, rojo** |
-| <kbd>c + e/i</kbd> | "th" in Spain; "s" in Latin America | **cinco** |
-| <kbd>z</kbd> | "th" in Spain; "s" in Latin America | **zapato** |
-| <kbd>qu + e/i</kbd> | "k" sound; *u* is silent | **queso** |
-| <kbd>güe</kbd> / <kbd>güi</kbd> | pronounce the *u* ("gweh / gwee") | **pingüino** |
+gwee") | **pingüino** |
 
 ### Spanish Syllabic Stress Engine
 
