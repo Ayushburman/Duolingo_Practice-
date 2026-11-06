@@ -1,21 +1,4 @@
- | what / how *(question/exclamation)* | **que** | that *(relative conjunction)* |
 
-### First Speaking Drill
-Read slowly focusing on pure vowels, then repeat at natural conversational speed:
-- `Hola. Me llamo ___.`
-- `Soy de India.`
-- `Estoy aprendiendo español.`
-- `¿Cómo estás? Estoy bien, gracias.`
-- `Mucho gusto. ¡Hasta luego!`
-
----
-
-## [02] A1 FOUNDATIONS
-![LEVEL A1](https://img.shields.io/badge/LEVEL-A1-F78C6B?style=flat-square&labelColor=20243A)  ![FOCUS FOUNDATIONS](https://img.shields.io/badge/FOCUS-FOUNDATIONS-E76F51?style=flat-square&labelColor=20243A)  ![GOAL SURVIVAL_SPANISH](https://img.shields.io/badge/GOAL-SURVIVAL_SPANISH-F4B942?style=flat-square&labelColor=20243A)
-
-### Essential Sentence Architecture
-
-```mermaid
 flowchart TB
     subgraph DEC["<b>1. DECLARATIVE ARCHITECTURE</b>"]
         direction LR
