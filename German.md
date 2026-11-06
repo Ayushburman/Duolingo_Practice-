@@ -1,17 +1,4 @@
-gwee") | **pingüino** |
 
-### Spanish Syllabic Stress Engine
-
-```mermaid
-flowchart TD
-    Start(["<b>Inspect Spanish Word</b>"]) --> Q1{"Has Written Accent?<br/>(á, é, í, ó, ú)"}
-    Q1 -->|"YES"| R1["<b>Stress the Accented Syllable</b><br/>Overrides all default rules<br/><i>ca-<b>FÉ</b>, in-<b>GLÉS</b>, es-<b>TÁ</b></i>"]
-    Q1 -->|"NO"| Q2{"What is the<br/>Final Letter?"}
-    Q2 -->|"Vowel (a,e,i,o,u)<br/>or -N / -S"| R2["<b>Stress Penultimate Syllable</b><br/>(2nd-to-last syllable)<br/><i><b>CA</b>-sa, <b>HA</b>-blan</i>"]
-    Q2 -->|"Any Other Consonant<br/>(d, l, r, z, j...)"| R3["<b>Stress Final Syllable</b><br/>(Last syllable)<br/><i>re-<b>LOJ</b>, ha-<b>BLAR</b></i>"]
-
-    style Start fill:#20243A,stroke:#fff,color:#fff
-    style R1 fill:#E76F51,stroke:#20243A,color:#fff
     style R2 fill:#06A77D,stroke:#20243A,color:#fff
     style R3 fill:#118AB2,stroke:#20243A,color:#fff
 ```
